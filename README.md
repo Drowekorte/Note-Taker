@@ -4,8 +4,11 @@
 
 ## Name
 
-A portfolio to showcase my recent work. <br>
-https://drowekorte.github.io/Portfolio/index.html
+My note taker app in action. <br>
+https://note-taker--xyz.herokuapp.com/
+
+![gif](./public/assets/imgs/Note-Taker-gif.gif)
+
 
 <br>
 
@@ -22,7 +25,7 @@ Here's a simple to use note taker for your production team. Easily add, save, an
 
 To clone my code for your own project:
 * Copy the git SSH to your clipboard <br>
-![Screen Shot](assets/README/github.jpg)
+![Screen Shot](./public/assets/imgs/github.jpg)
 * Create a local file to place the GitHub file into
 * Open your terminal, find the file you've just created
 * Type
@@ -68,16 +71,11 @@ No contributions at this time
 <br>
 
 ## Authors and acknowledgment
-https://www.w3schools.com/<br>
-https://css-tricks.com/<br>
-https://developer.mozilla.org/en-US<br>
+https://www.heroku.com/<br>
+
 
 <br>
 
-## License
-This is not currently licensed.
-
-<br>
 
 ## Project status
 Currently, this project is in a developmental stage.
