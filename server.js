@@ -77,9 +77,9 @@ app.delete("/api/notes/:id", function (req, res) {
         const stringJson =  JSON.stringify(parsedJson)
             fs.writeFile(__dirname + '/db/db.json', stringJson, function (err, data) {
                 if (err) {
-                    return alert(err);
+                    return console.log(err);
                 } else {
-                    alert("Your note was deleted!");
+                    console.log("Deleted!");
                 }
             });
         res.send("Delete")
